@@ -104,11 +104,6 @@ Figma design → live build, with before/after.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinmughal-work&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
-<!-- ===== ANIMATED CONTRIBUTION SNAKE (see setup note below) ===== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mohsinmughal-work/mohsinmughal-work/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
 ---
 
 ### 🌐 Connect with Me
