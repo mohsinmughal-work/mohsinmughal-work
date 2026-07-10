@@ -172,13 +172,7 @@ Figma designs → Live builds. Before/after, user flow, and design system.
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohsinmughal-work&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7" alt="trophy" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohsinmughal-work&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="stats" width="48%" />
   <img src="https://streak-stats.demolab.com?user=mohsinmughal-work&theme=tokyonight&hide_border=true" alt="streak" width="48%" />
 </p>
 
