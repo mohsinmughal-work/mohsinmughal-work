@@ -24,10 +24,12 @@
 - 🐍 I build **Python tools**: scrapers, automation scripts, API integrations, dashboards
 - 📫 Reach me: *(add your email / WhatsApp / portfolio link)*
 
+---
+
 ### 🤖 Bot Development — Built Around Your Requirements
- 
+
 I don't just build "a bot" — I build the bot **you actually need**. Some examples of what I take on:
- 
+
 | Type | Examples |
 |---|---|
 | 💬 Chatbots | Customer support bots, FAQ bots, AI-powered chat assistants |
@@ -36,9 +38,9 @@ I don't just build "a bot" — I build the bot **you actually need**. Some examp
 | 🔁 Automation Bots | Web scraping, auto-reply, scheduled tasks, data pipelines |
 | 🎮 Utility Bots | Games, quizzes, polls, reminders, notification systems |
 | 🔗 API-Integrated Bots | Bots connected to payment gateways, CRMs, Sheets/Databases |
- 
+
 > Have a workflow you want automated or a bot idea? I build it from scratch to spec.
- 
+
 ---
 
 ### 🛠️ Tech & Tools
@@ -57,34 +59,7 @@ I don't just build "a bot" — I build the bot **you actually need**. Some examp
 ---
 
 ### 📌 Featured Projects
-> *(Swap these with your real repo links — pin the matching repos on your profile too)*
-
-<table>
-<tr>
-<td width="50%">
-<h4>🤖 Telegram Bot Name</h4>
-One-line description of what it automates or solves.
-<br><a href="#">🔗 View Repo</a>
-</td>
-<td width="50%">
-<h4>🎨 WordPress Theme Name</h4>
-Custom theme — responsive, WooCommerce-ready, fast.
-<br><a href="#">🔗 View Repo</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h4>🖥️ Web App / Site Name</h4>
-Frontend/full-stack project — mention the stack used.
-<br><a href="#">🔗 View Repo</a>
-</td>
-<td width="50%">
-<h4>🎯 UI/UX Case Study</h4>
-Figma design → live build, with before/after.
-<br><a href="#">🔗 View Repo</a>
-</td>
-</tr>
-</table>
+> 🚧 Currently uploading my projects — Telegram bots, WordPress themes, web apps & UI/UX case studies coming soon. Check back shortly, or message me directly for samples of my work.
 
 ---
 
