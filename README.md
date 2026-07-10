@@ -180,10 +180,6 @@ Figma designs → Live builds. Before/after, user flow, and design system.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinmughal-work&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top-langs" width="40%" />
-</p>
-
-<p align="center">
   <a href="https://github.com/mohsinmughal-work?tab=followers"><img src="https://img.shields.io/github/followers/mohsinmughal-work?label=Followers&style=for-the-badge&color=0e75b6&logo=github&logoColor=white" alt="followers" /></a>
   <a href="https://github.com/mohsinmughal-work?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-View%20All-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Public Repos" /></a>
 </p>
