@@ -3,6 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Mohsin%20Mughal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Designer%20%7C%20Developer%20%7C%20Automation%20Builder&descAlignY=58&descAlign=50&descSize=18" alt="header"/>
 </p>
 
+<!-- ===== PROFILE PHOTO - Hosted Online ===== -->
+<p align="center">
+  <img src="https://d.uguu.se/nTZToKMH.png" width="200" height="200" alt="Mohsin Mughal" />
+</p>
+
 <!-- ===== ANIMATED TYPING TEXT ===== -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00CFFF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=70&lines=Graphic+Designer+%7C+Web+Developer+%26+Designer;WordPress+Theme+Developer+%7C+UI%2FUX+Designer;Python+Developer+-+Telegram+%26+Discord+Bots;Custom+Bots+Built+On+Any+Requirement" alt="Typing SVG" />
