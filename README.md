@@ -59,7 +59,34 @@ I don't just build "a bot" — I build the bot **you actually need**. Some examp
 ---
 
 ### 📌 Featured Projects
-> 🚧 Currently uploading my projects — Telegram bots, WordPress themes, web apps & UI/UX case studies coming soon. Check back shortly, or message me directly for samples of my work.
+> *(Swap these with your real repo links — pin the matching repos on your profile too)*
+
+<table>
+<tr>
+<td width="50%">
+<h4>🤖 Telegram Bot Name</h4>
+One-line description of what it automates or solves.
+<br><a href="#">🔗 View Repo</a>
+</td>
+<td width="50%">
+<h4>🎨 WordPress Theme Name</h4>
+Custom theme — responsive, WooCommerce-ready, fast.
+<br><a href="#">🔗 View Repo</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h4>🖥️ Web App / Site Name</h4>
+Frontend/full-stack project — mention the stack used.
+<br><a href="#">🔗 View Repo</a>
+</td>
+<td width="50%">
+<h4>🎯 UI/UX Case Study</h4>
+Figma design → live build, with before/after.
+<br><a href="#">🔗 View Repo</a>
+</td>
+</tr>
+</table>
 
 ---
 
