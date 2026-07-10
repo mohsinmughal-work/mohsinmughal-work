@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Mohsin%20Mughal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Designer%20%7C%20Developer%20%7C%20Automation%20Builder&descAlignY=58&descAlign=50&descSize=18" alt="header"/>
 </p>
 
-<!-- ===== PROFILE PHOTO - Hosted Online ===== -->
+<!-- ===== PROFILE PHOTO - Pure Transparent No BG ===== -->
 <p align="center">
-  <img src="https://d.uguu.se/nTZToKMH.png" width="200" height="200" alt="Mohsin Mughal" />
+  <img src="https://n.uguu.se/hKcinkuf.png" width="220" height="220" alt="Mohsin Mughal" />
 </p>
 
 <!-- ===== ANIMATED TYPING TEXT ===== -->
