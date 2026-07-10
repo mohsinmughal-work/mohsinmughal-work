@@ -16,7 +16,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohsinmughal-work&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/badge/Available%20for-Freelance-brightgreen?style=for-the-badge" alt="freelance" />
-  <a href="mailto:mohsinmughal.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-mohsinmughal.work%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohsinmughal.work@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-mohsinmughal.work%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@ I'm a multidisciplinary creator — I blend **Design, Development, and Automatio
 - 🐍 **Python Developer** — Scrapers, automation scripts, API integrations, dashboards
 - 📫 **Reach me:**
 
-  <a href="mailto:mohsinmughal.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-mohsinmughal.work%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohsinmughal.work@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-mohsinmughal.work%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://wa.link/2l0ilc" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="https://t.me/MrDarkShadow786" target="_blank"><img src="https://img.shields.io/badge/Telegram-Message%20Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 
@@ -100,8 +100,8 @@ I don't sell cookie-cutter bots. I build **custom automation around your exact w
 **Got a repetitive task? Let's automate it.** 👇
 
 <p>
-  <a href="mailto:mohsinmughal.work@gmail.com"><img src="https://img.shields.io/badge/Let's%20Automate%20It-Email%20Me%20Now-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me Now" /></a>
-  <a href="mailto:mohsinmughal.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-mohsinmughal.work%40gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="email" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohsinmughal.work@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Let's%20Automate%20It-Email%20Me%20Now-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me Now" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohsinmughal.work@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-mohsinmughal.work%40gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="email" /></a>
 </p>
 
 ---
@@ -134,7 +134,7 @@ I don't sell cookie-cutter bots. I build **custom automation around your exact w
 #### 🤖 Telegram Automation Suite
 Complete Telegram channel automation + payment integration + admin panel.
 <br><br>
-<a href="#">🔗 View Repo</a> | <a href="mailto:mohsinmughal.work@gmail.com">📩 Request Demo</a>
+<a href="#">🔗 View Repo</a> | <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohsinmughal.work@gmail.com" target="_blank">📩 Request Demo</a>
 
 </td>
 <td width="50%">
@@ -193,7 +193,7 @@ Figma designs → Live builds. Before/after, user flow, and design system.
 ### 🌐 Let's Connect & Build Something Amazing
 
 <p align="center">
-  <a href="mailto:mohsinmughal.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-mohsinmughal.work%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohsinmughal.work@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-mohsinmughal.work%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
   <a href="https://www.linkedin.com/in/mohsin-mughal-857482421" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a href="https://t.me/MrDarkShadow786" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" /></a>
   <a href="https://wa.link/2l0ilc" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" /></a>
@@ -203,7 +203,7 @@ Figma designs → Live builds. Before/after, user flow, and design system.
 </p>
 
 <p align="center">
-  <b>📩 Email:</b> <a href="mailto:mohsinmughal.work@gmail.com">mohsinmughal.work@gmail.com</a> <br>
+  <b>📩 Email:</b> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohsinmughal.work@gmail.com" target="_blank">mohsinmughal.work@gmail.com</a> <br>
   <b>⚡ Available for:</b> Freelance Projects, Custom Bot Development, WordPress & UI/UX Work
 </p>
 
