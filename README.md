@@ -47,9 +47,9 @@ I'm a multidisciplinary creator — I blend **Design, Development, and Automatio
 
 ### 💼 What I Do
 
-<table>
-<tr>
-<td width="33%" valign="top">
+<div align="center">
+
+<div style="display: inline-block; width: 30%; min-width: 260px; vertical-align: top; text-align: left; background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 16px; margin: 6px;">
 
 #### 🎨 Design
 - Brand Identity
@@ -58,8 +58,9 @@ I'm a multidisciplinary creator — I blend **Design, Development, and Automatio
 - Marketing & Social Media
 - Figma, Photoshop, Illustrator, XD
 
-</td>
-<td width="33%" valign="top">
+</div>
+
+<div style="display: inline-block; width: 30%; min-width: 260px; vertical-align: top; text-align: left; background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 16px; margin: 6px;">
 
 #### 💻 Development
 - Responsive Websites
@@ -68,8 +69,9 @@ I'm a multidisciplinary creator — I blend **Design, Development, and Automatio
 - Landing Pages & Portfolios
 - HTML, CSS, JS, PHP, MySQL
 
-</td>
-<td width="33%" valign="top">
+</div>
+
+<div style="display: inline-block; width: 30%; min-width: 260px; vertical-align: top; text-align: left; background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 16px; margin: 6px;">
 
 #### 🤖 Automation
 - Telegram / Discord / WhatsApp Bots
@@ -78,9 +80,9 @@ I'm a multidisciplinary creator — I blend **Design, Development, and Automatio
 - Payment & CRM Integrations
 - Python, APIs, Selenium
 
-</td>
-</tr>
-</table>
+</div>
+
+</div>
 
 ---
 
@@ -127,49 +129,60 @@ I don't sell cookie-cutter bots. I build **custom automation around your exact w
 
 > Pin these repos on your profile + replace links with your real projects.
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
+
+<div style="display: inline-block; width: 47%; min-width: 300px; vertical-align: top; text-align: left; background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 18px; margin: 6px;">
 
 #### 🤖 Telegram Automation Suite
 Complete Telegram channel automation + payment integration + admin panel.
 <br><br>
 <a href="#">🔗 View Repo</a> | <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohsinmughal.work@gmail.com" target="_blank">📩 Request Demo</a>
 
-</td>
-<td width="50%">
+</div>
+
+<div style="display: inline-block; width: 47%; min-width: 300px; vertical-align: top; text-align: left; background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 18px; margin: 6px;">
 
 #### 🎨 Custom WordPress Theme
 Lightweight, SEO-optimized, WooCommerce-ready theme built from scratch.
 <br><br>
 <a href="#">🔗 View Repo</a> | <a href="#">🌐 Live Preview</a>
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+</div>
+
+</div>
+
+<div align="center">
+
+<div style="display: inline-block; width: 47%; min-width: 300px; vertical-align: top; text-align: left; background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 18px; margin: 6px;">
 
 #### 🖥️ Portfolio & Business Websites
 Modern business sites - Figma to responsive code, fast & conversion-focused.
 <br><br>
 <a href="#">🔗 View Repo</a> | <a href="#">🌐 Live Sites</a>
 
-</td>
-<td width="50%">
+</div>
+
+<div style="display: inline-block; width: 47%; min-width: 300px; vertical-align: top; text-align: left; background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 18px; margin: 6px;">
 
 #### 🎯 UI/UX Case Studies
 Figma designs → Live builds. Before/after, user flow, and design system.
 <br><br>
 <a href="#">🔗 View on Figma</a> | <a href="#">📁 Case Study</a>
 
-</td>
-</tr>
-</table>
+</div>
+
+</div>
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohsinmughal-work&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7" alt="trophy" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohsinmughal-work&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="stats" width="48%" />
   <img src="https://streak-stats.demolab.com?user=mohsinmughal-work&theme=tokyonight&hide_border=true" alt="streak" width="48%" />
 </p>
 
