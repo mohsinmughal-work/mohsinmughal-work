@@ -1,114 +1,120 @@
-<!-- ===== ANIMATED HEADER BANNER ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mohsin%20Mughal&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Designer%20%7C%20Developer%20%7C%20Automation%20Builder&descAlignY=58&descSize=18" />
-</p>
-
-<!-- ===== ANIMATED TYPING TEXT ===== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00CFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=70&lines=Graphic+Designer+%7C+Web+Developer+%26+Designer;WordPress+Theme+Developer+%7C+UI%2FUX+Designer;Python+Developer+-+Telegram+%26+Discord+Bots;Custom+Bots+Built+On+Any+Requirement" alt="Typing SVG" />
-</p>
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohsinmughal-work&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/badge/Available%20for-Freelance-brightgreen?style=for-the-badge" />
-</p>
----
 
-### 🚀 About Me
+<!-- Design -->
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+  <img src="https://skillicons.dev/icons?i=photoshop&theme=dark" alt="Adobe Photoshop"/>
+</a>
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+  <img src="https://skillicons.dev/icons?i=illustrator&theme=dark" alt="Adobe Illustrator"/>
+</a>
+<a href="https://www.figma.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma"/>
+</a>
+<a href="https://helpx.adobe.com/xd.html" target="_blank">
+  <img src="https://skillicons.dev/icons?i=xd&theme=dark" alt="Adobe XD"/>
+</a>
 
-- 🎨 I design brand identities, UI, and marketing graphics
-- 💻 I build and design responsive, modern websites
-- 🧩 I develop **custom WordPress themes** from scratch
-- 🖌️ I design **UI/UX** for web & mobile apps (Figma → real code)
-- 🤖 I build **any type of bot** — Telegram, Discord, WhatsApp, chatbots, automation & utility bots — fully custom, built around what *you* need
-- 🐍 I build **Python tools**: scrapers, automation scripts, API integrations, dashboards
-- 📫 Reach me: *(add your email / WhatsApp / portfolio link)*
+<!-- Frontend -->
+<a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5"/>
+</a>
+<a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3"/>
+</a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript"/>
+</a>
 
----
+<!-- Backend -->
+<a href="https://www.php.net/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP"/>
+</a>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"/>
+</a>
 
-### 🤖 Bot Development — Built Around Your Requirements
+<!-- CMS -->
+<a href="https://wordpress.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=wordpress&theme=dark" alt="WordPress"/>
+</a>
 
-I don't just build "a bot" — I build the bot **you actually need**. Some examples of what I take on:
+<!-- Version Control -->
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git"/>
+</a>
 
-| Type | Examples |
-|---|---|
-| 💬 Chatbots | Customer support bots, FAQ bots, AI-powered chat assistants |
-| 📢 Telegram Bots | Auto-post/channel bots, order bots, payment bots, admin/moderation bots |
-| 🛒 E-commerce Bots | Order tracking, catalog bots, WhatsApp order bots |
-| 🔁 Automation Bots | Web scraping, auto-reply, scheduled tasks, data pipelines |
-| 🎮 Utility Bots | Games, quizzes, polls, reminders, notification systems |
-| 🔗 API-Integrated Bots | Bots connected to payment gateways, CRMs, Sheets/Databases |
-
-> Have a workflow you want automated or a bot idea? I build it from scratch to spec.
-
----
-
-### 🛠️ Tech & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma,xd,html,css,js,php,wordpress,python,mysql,git&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Telegram%20Bot%20API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
 </p>
 
 ---
 
-### 📌 Featured Projects
-> *(Swap these with your real repo links — pin the matching repos on your profile too)*
-
-<table>
-<tr>
-<td width="50%">
-<h4>🤖 Telegram Bot Name</h4>
-One-line description of what it automates or solves.
-<br><a href="#">🔗 View Repo</a>
-</td>
-<td width="50%">
-<h4>🎨 WordPress Theme Name</h4>
-Custom theme — responsive, WooCommerce-ready, fast.
-<br><a href="#">🔗 View Repo</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h4>🖥️ Web App / Site Name</h4>
-Frontend/full-stack project — mention the stack used.
-<br><a href="#">🔗 View Repo</a>
-</td>
-<td width="50%">
-<h4>🎯 UI/UX Case Study</h4>
-Figma design → live build, with before/after.
-<br><a href="#">🔗 View Repo</a>
-</td>
-</tr>
-</table>
-
----
-
-### 📊 GitHub Stats
+## ⚡ Technologies & Platforms
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohsinmughal-work&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinmughal-work&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+<a href="https://core.telegram.org/bots/api" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot API"/>
+</a>
+
+<a href="https://discordpy.readthedocs.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.py"/>
+</a>
+
+<a href="https://developers.facebook.com/docs/whatsapp/" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp_Business_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Business API"/>
+</a>
+
+<a href="https://www.selenium.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+</a>
+
+<a href="https://woocommerce.com/" target="_blank">
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce"/>
+</a>
+
+<a href="https://developer.wordpress.org/rest-api/" target="_blank">
+  <img src="https://img.shields.io/badge/WordPress_REST_API-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress REST API"/>
+</a>
+
+<a href="https://restfulapi.net/" target="_blank">
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Git_Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
 </p>
 
 ---
 
-### 🌐 Connect with Me
+## 💼 Services
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohsin-mughal-857482421" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/mohsinmughal.work/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.facebook.com/MMdesigner786" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://t.me/MrDarkShadow786" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://wa.link/2l0ilc" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-</p>
-<br>
 
-<!-- ===== ANIMATED FOOTER BANNER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+<img src="https://img.shields.io/badge/🎨_Graphic_Design-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💻_Web_Development-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🛒_WooCommerce-96588A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌐_WordPress_Themes-21759B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📱_UI/UX_Design-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🤖_Telegram_Bots-26A5E4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🎮_Discord_Bots-5865F2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/⚙️_Automation-00C853?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🐍_Python_Development-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/🔗_API_Integration-FF9800?style=for-the-badge" />
+
+</p>
+
+---
+
+<p align="center">
+<b>Building modern websites, premium UI/UX, custom WordPress solutions, Python automation, and scalable bots for businesses worldwide.</b>
+</p>
