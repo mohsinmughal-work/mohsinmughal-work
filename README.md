@@ -47,9 +47,9 @@ I'm a multidisciplinary creator — I blend **Design, Development, and Automatio
 
 ### 💼 What I Do
 
-<div align="center">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 14px;">
 
-<div style="display: inline-block; width: 30%; min-width: 260px; vertical-align: top; text-align: left; background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 16px; margin: 6px;">
+<div style="flex: 1 1 260px; max-width: 340px; min-width: 260px; text-align: left; background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 18px;">
 
 #### 🎨 Design
 - Brand Identity
@@ -60,7 +60,7 @@ I'm a multidisciplinary creator — I blend **Design, Development, and Automatio
 
 </div>
 
-<div style="display: inline-block; width: 30%; min-width: 260px; vertical-align: top; text-align: left; background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 16px; margin: 6px;">
+<div style="flex: 1 1 260px; max-width: 340px; min-width: 260px; text-align: left; background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 18px;">
 
 #### 💻 Development
 - Responsive Websites
@@ -71,7 +71,7 @@ I'm a multidisciplinary creator — I blend **Design, Development, and Automatio
 
 </div>
 
-<div style="display: inline-block; width: 30%; min-width: 260px; vertical-align: top; text-align: left; background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 16px; margin: 6px;">
+<div style="flex: 1 1 260px; max-width: 340px; min-width: 260px; text-align: left; background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 18px;">
 
 #### 🤖 Automation
 - Telegram / Discord / WhatsApp Bots
@@ -129,9 +129,9 @@ I don't sell cookie-cutter bots. I build **custom automation around your exact w
 
 > Pin these repos on your profile + replace links with your real projects.
 
-<div align="center">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 14px;">
 
-<div style="display: inline-block; width: 47%; min-width: 300px; vertical-align: top; text-align: left; background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 18px; margin: 6px;">
+<div style="flex: 1 1 320px; max-width: 480px; min-width: 300px; text-align: left; background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 20px;">
 
 #### 🤖 Telegram Automation Suite
 Complete Telegram channel automation + payment integration + admin panel.
@@ -140,7 +140,7 @@ Complete Telegram channel automation + payment integration + admin panel.
 
 </div>
 
-<div style="display: inline-block; width: 47%; min-width: 300px; vertical-align: top; text-align: left; background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 18px; margin: 6px;">
+<div style="flex: 1 1 320px; max-width: 480px; min-width: 300px; text-align: left; background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 20px;">
 
 #### 🎨 Custom WordPress Theme
 Lightweight, SEO-optimized, WooCommerce-ready theme built from scratch.
@@ -149,11 +149,7 @@ Lightweight, SEO-optimized, WooCommerce-ready theme built from scratch.
 
 </div>
 
-</div>
-
-<div align="center">
-
-<div style="display: inline-block; width: 47%; min-width: 300px; vertical-align: top; text-align: left; background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 18px; margin: 6px;">
+<div style="flex: 1 1 320px; max-width: 480px; min-width: 300px; text-align: left; background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 20px;">
 
 #### 🖥️ Portfolio & Business Websites
 Modern business sites - Figma to responsive code, fast & conversion-focused.
@@ -162,7 +158,7 @@ Modern business sites - Figma to responsive code, fast & conversion-focused.
 
 </div>
 
-<div style="display: inline-block; width: 47%; min-width: 300px; vertical-align: top; text-align: left; background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 18px; margin: 6px;">
+<div style="flex: 1 1 320px; max-width: 480px; min-width: 300px; text-align: left; background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 20px;">
 
 #### 🎯 UI/UX Case Studies
 Figma designs → Live builds. Before/after, user flow, and design system.
@@ -206,8 +202,12 @@ Figma designs → Live builds. Before/after, user flow, and design system.
 </p>
 
 <p align="center">
-  <b>📩 Email:</b> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohsinmughal.work@gmail.com" target="_blank">mohsinmughal.work@gmail.com</a> <br>
-  <b>⚡ Available for:</b> Freelance Projects, Custom Bot Development, WordPress & UI/UX Work
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohsinmughal.work@gmail.com" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%93%A9%20Email-mohsinmughal.work%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+  <br><br>
+  <b>⚡ Available for:</b><br>
+  <img src="https://img.shields.io/badge/Freelance%20Projects-Available-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" alt="freelance" />
+  <img src="https://img.shields.io/badge/Custom%20Bot%20Development-Expert-00CFFF?style=for-the-badge&logo=bot&logoColor=white" alt="bots" />
+  <img src="https://img.shields.io/badge/WordPress%20%26%20UI%2FUX-Professional-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" />
 </p>
 
 ---
@@ -219,3 +219,4 @@ Figma designs → Live builds. Before/after, user flow, and design system.
 <p align="center">
   <i>⭐ If you like my work, consider starring my repos! Let's automate your workflow.</i>
 </p>
+
