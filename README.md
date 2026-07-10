@@ -5,16 +5,13 @@
 
 <!-- ===== ANIMATED TYPING TEXT ===== -->
 <p align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00CFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=90&lines=Graphic+Designer+%7C+Web+Developer+%26+Designer;WordPress+Theme+Developer+%7C+UI%2FUX+Designer;Python+Developer+-+Telegram+%26+Discord+Bots;Custom+Bots+Built+On+Any+Requirement" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00CFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=70&lines=Graphic+Designer+%7C+Web+Developer+%26+Designer;WordPress+Theme+Developer+%7C+UI%2FUX+Designer;Python+Developer+-+Telegram+%26+Discord+Bots;Custom+Bots+Built+On+Any+Requirement" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohsinmughal-work&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/badge/Available%20for-Freelance-brightgreen?style=for-the-badge" />
 </p>
-
 ---
 
 ### 🚀 About Me
@@ -97,11 +94,7 @@ Figma design → live build, with before/after.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohsinmughal-work&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinmughal-work&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinmughal-work&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinmughal-work&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -109,12 +102,13 @@ Figma design → live build, with before/after.
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohsin-mughal-857482421" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/mohsinmughal.work/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.facebook.com/MMdesigner786" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://t.me/MrDarkShadow786" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://wa.link/2l0ilc" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
+<br>
 
 <!-- ===== ANIMATED FOOTER BANNER ===== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
