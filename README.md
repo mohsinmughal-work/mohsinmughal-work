@@ -93,8 +93,8 @@ Figma design → live build, with before/after.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohsinmughal-work&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinmughal-work&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://img.shields.io/github/followers/mohsinmughal-work?label=Followers&style=for-the-badge&color=0e75b6" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/mohsinmughal-work&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=blueviolet" />
 </p>
 
 ---
