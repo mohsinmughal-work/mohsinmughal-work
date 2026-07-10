@@ -26,22 +26,68 @@
 
 ---
 
-### 🤖 Bot Development — Built Around Your Requirements
+<!-- ================================================= -->
+<!-- 🤖 BOT DEVELOPMENT -->
+<!-- ================================================= -->
 
-I don't just build "a bot" — I build the bot **you actually need**. Some examples of what I take on:
+<h2 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=70&section=header&text=🤖%20Bot%20Development&fontSize=34&fontColor=ffffff&animation=fadeIn" />
+</h2>
 
-| Type | Examples |
-|---|---|
-| 💬 Chatbots | Customer support bots, FAQ bots, AI-powered chat assistants |
-| 📢 Telegram Bots | Auto-post/channel bots, order bots, payment bots, admin/moderation bots |
-| 🛒 E-commerce Bots | Order tracking, catalog bots, WhatsApp order bots |
-| 🔁 Automation Bots | Web scraping, auto-reply, scheduled tasks, data pipelines |
-| 🎮 Utility Bots | Games, quizzes, polls, reminders, notification systems |
-| 🔗 API-Integrated Bots | Bots connected to payment gateways, CRMs, Sheets/Databases |
+<p align="center">
+  <strong>Custom Bots • AI Automation • Workflow Integration • Built Exactly Around Your Requirements</strong>
+</p>
 
-> Have a workflow you want automated or a bot idea? I build it from scratch to spec.
+<p align="center">
+I don't build generic bots—I engineer intelligent automation solutions tailored to your business, workflow, and goals.
+Whether you need a customer support assistant, payment bot, admin panel, automation pipeline, or AI-powered chatbot, every solution is designed from scratch for maximum reliability and scalability.
+</p>
+
+<br>
+
+<div align="center">
+
+| 🚀 Solution | What I Build |
+|:-----------|:-------------|
+| 💬 **AI Chatbots** | Customer support, FAQ systems, AI assistants, lead generation bots |
+| 📢 **Telegram Bots** | Order management, auto posting, moderation, subscriptions, payments |
+| 💬 **WhatsApp Bots** | Customer support, automated replies, booking & ordering systems |
+| 🎮 **Discord Bots** | Moderation, ticket systems, leveling, role management, utilities |
+| 🛒 **E-commerce Bots** | Product catalogs, order tracking, payment notifications |
+| 🔄 **Automation Bots** | Workflow automation, scheduled jobs, notifications, task automation |
+| 🌐 **Web Scrapers** | Data extraction, monitoring, price tracking, lead generation |
+| 🔗 **API Integrations** | Stripe, PayPal, Google APIs, CRMs, Databases, REST APIs |
+| 📊 **Business Automation** | Reports, dashboards, analytics, internal productivity tools |
+| ⚙️ **Custom Solutions** | Any unique bot or automation built around your exact requirements |
+
+</div>
+
+<br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord_Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/WhatsApp_Bots-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python_Automation-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/API_Integration-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Chatbots-8A2BE2?style=for-the-badge"/>
+
+</p>
 
 ---
+
+<p align="center">
+
+### 🚀 Need Something Unique?
+
+**Have an idea that doesn't fit into a category?**
+
+From simple utility bots to enterprise-grade automation systems, I develop **fully custom solutions** that match your exact workflow, integrate with your existing tools, and scale with your business.
+
+**Your idea. Your workflow. Your bot. Built from scratch.**
+
+</p>
 
 ### 🛠️ Tech & Tools
 
