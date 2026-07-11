@@ -5,7 +5,7 @@
 
 <!-- ===== PROFILE PHOTO - Pure Transparent No BG ===== -->
 <p align="center">
-  <a href='https://postimg.cc/4Kg6rjFn' target='_blank'><img src='https://i.postimg.cc/4Kg6rjFn/profile-photo.png' border='0' alt='profile-photo'></a>
+  <img src='https://i.postimg.cc/4Kg6rjFn/profile-photo.png' border='0' alt='profile-photo'>
 </p>
 
 <!-- ===== ANIMATED TYPING TEXT ===== -->
