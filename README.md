@@ -5,7 +5,7 @@
 
 <!-- ===== PROFILE PHOTO - Pure Transparent No BG ===== -->
 <p align="center">
-  <img src="https://n.uguu.se/hKcinkuf.png" width="220" height="220" alt="Mohsin Mughal" />
+  <img src="https://n.uguu.se/hKcinkuf.png](https://i.postimg.cc/5tHsFVB5/profile-photo.png" width="220" height="220" alt="Mohsin Mughal" />
 </p>
 
 <!-- ===== ANIMATED TYPING TEXT ===== -->
