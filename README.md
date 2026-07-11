@@ -5,7 +5,7 @@
 
 <!-- ===== PROFILE PHOTO - Pure Transparent No BG ===== -->
 <p align="center">
-  <img src="https://i.postimg.cc/5tHsFVB5/profile-photo.png" width="220" height="220" alt="Mohsin Mughal" />
+  <a href='https://postimg.cc/4Kg6rjFn' target='_blank'><img src='https://i.postimg.cc/4Kg6rjFn/profile-photo.png' border='0' alt='profile-photo'></a>
 </p>
 
 <!-- ===== ANIMATED TYPING TEXT ===== -->
